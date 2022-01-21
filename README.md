@@ -1,8 +1,8 @@
 # Predicting-Depression-Anxiety-and-Stress--EDA
 
-image
+![image](https://user-images.githubusercontent.com/49836317/150532683-679f07d5-b92f-4e42-ba87-67f26d1f9da7.png)
 
-image source
+
 
 The data is from: https://openpsychometrics.org/tests/TMAS/
 
