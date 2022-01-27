@@ -123,6 +123,7 @@ the survey, 2=from google, 0=other or unknown
 ## Methods Used
 
 * Data Cleaning
+* Explotory Data Analysis
 * Feature Engineering
 * Data Visualization
 
